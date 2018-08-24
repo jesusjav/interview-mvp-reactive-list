@@ -59,7 +59,7 @@ public class MainActivity extends BaseActivity implements MainMvpView {
 
         setUp();
 
-       mPresenter.loadUsers();
+        mPresenter.loadUsers();
     }
 
     @Override
